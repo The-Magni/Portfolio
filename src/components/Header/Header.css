@@ -1,0 +1,32 @@
+nav {
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    padding-left: 5rem;
+    padding-right: 5em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    flex-wrap: wrap;
+    position: absolute;
+    z-index: 2;
+}
+
+.nav-left, .nav-right {
+    display: flex;
+    gap: 1rem;
+}
+
+.nav-item {
+    color: white;
+    text-decoration: none;
+}
+
+.social:link {
+    background-color: black;
+    color: white;
+}
+
+.social:visited {
+    background-color: black;
+    color: white;
+}

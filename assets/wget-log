@@ -1,0 +1,15 @@
+--2025-01-29 20:28:09--  https://www.facebook.com/messenger_media/?attachment_id=1139145194531497
+Resolving www.facebook.com (www.facebook.com)... 57.144.144.1, 2a03:2880:f348:1:face:b00c:0:25de
+Connecting to www.facebook.com (www.facebook.com)|57.144.144.1|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://www.facebook.com/unsupportedbrowser [following]
+--2025-01-29 20:28:10--  https://www.facebook.com/unsupportedbrowser
+Reusing existing connection to www.facebook.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html?attachment_id=1139145194531497’
+
+               index.html?att     [<=>                                               ]       0  --.-KB/s               index.html?attachment_id=1139     [ <=>                                              ]  44.74K  --.-KB/s    in 0.007s  
+
+2025-01-29 20:28:10 (6.60 MB/s) - ‘index.html?attachment_id=1139145194531497’ saved [45814]
+

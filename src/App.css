@@ -1,0 +1,7 @@
+.App {
+    overflow-x: hidden;
+    background-color: rgb(43, 44, 47);
+    color: white;
+    position: relative;
+    z-index: 0;
+}
