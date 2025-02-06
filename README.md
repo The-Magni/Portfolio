@@ -1,3 +1,6 @@
+# Deployment:
+This project was deployed using Vercel at https://portfolio-three-psi-24.vercel.app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
